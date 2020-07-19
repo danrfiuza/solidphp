@@ -1,0 +1,12 @@
+version: "3.1"
+
+services:
+
+  php-fpm:
+    container_name: php
+    build: ./configs/php-fpm
+    volumes:
+      - ./src:/application
+      - ./configs/php-fpm/php-ini-overrides.ini:/etc/php/7.4/fpm/conf.d/99-overrides.ini
+      - ./configs/php-fpm/xdebug.ini:/etc/php/7.4/mods-available/xdebug.ini
+      - ./configs/php-fpm/logs:/var/log

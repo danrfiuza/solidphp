@@ -1,0 +1,3 @@
+# Open/Closed Principle
+
+### classes should be open for extension, but closed for modification. Essentially meaning that classes should be extended to change functionality, rather than being altered.
