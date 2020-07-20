@@ -2,242 +2,118 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7c189ffa-da86-4f57-955d-0be6aa9a0b2b" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/index.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/testes.php" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/php-docker-settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/php-test-framework.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/remote-mappings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/php-fpm/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/configs/php-fpm/Dockerfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/php-fpm/xdebug.ini" beforeDir="false" afterPath="$PROJECT_DIR$/configs/php-fpm/xdebug.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker-compose.yml" beforeDir="false" afterPath="$PROJECT_DIR$/docker-compose.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/src/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/DependecyInversionPrinciple/ListRendererInterface.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/DependecyInversionPrinciple/ListRendererInterface.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/DependecyInversionPrinciple/PDFRenderer.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/DependecyInversionPrinciple/PDFRenderer.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/DependecyInversionPrinciple/Report.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/DependecyInversionPrinciple/Report.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/DependecyInversionPrinciple/XMLRenderer.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/DependecyInversionPrinciple/XMLRenderer.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/DependecyInversionPrinciple/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/DependecyInversionPrinciple/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/InterfaceSegregationPrinciple/Coder.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/InterfaceSegregationPrinciple/Coder.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/InterfaceSegregationPrinciple/DeveloperInterface.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/InterfaceSegregationPrinciple/DeveloperInterface.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/InterfaceSegregationPrinciple/MustCallToClient.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/InterfaceSegregationPrinciple/MustCallToClient.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/InterfaceSegregationPrinciple/RequirementsAnalyst.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/InterfaceSegregationPrinciple/RequirementsAnalyst.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/InterfaceSegregationPrinciple/WorkerInterface.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/InterfaceSegregationPrinciple/WorkerInterface.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/InterfaceSegregationPrinciple/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/InterfaceSegregationPrinciple/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/LiskovSubistitutionPrinciple/QuadrilateralInterface.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/LiskovSubistitutionPrinciple/QuadrilateralInterface.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/LiskovSubistitutionPrinciple/Rectangle.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/LiskovSubistitutionPrinciple/Rectangle.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/LiskovSubistitutionPrinciple/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/LiskovSubistitutionPrinciple/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/OpenClosedPrinciple/Board.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/OpenClosedPrinciple/Board.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/OpenClosedPrinciple/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/OpenClosedPrinciple/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/SingleResponsibilityPrinciple/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/SingleResponsibilityPrinciple/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/composer.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/composer.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tests/OpenClosedPrinciple/BoardTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/tests/OpenClosedPrinciple/BoardTest.php" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="DONT_SYNCHRONIZE">
     <pharConfigPath>$PROJECT_DIR$/src/composer.json</pharConfigPath>
-  </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/docker-compose.yml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="51" lean-forward="true" selection-start-line="9" selection-start-column="51" selection-end-line="9" selection-end-column="51" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/init.sh">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/php">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/solidphp.code-workspace">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.vscode/launch.json">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.vscode/settings.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="1" column="1" lean-forward="true" selection-start-line="1" selection-start-column="1" selection-end-line="1" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/.gitignore">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/configs/php-fpm/php-ini-overrides.ini">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/configs/php-fpm/xdebug.ini">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/configs/php-fpm/Dockerfile">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-    </leaf>
+    <execution />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/src/composer.json" />
-        <option value="$PROJECT_DIR$/src/app/OCP/Rectangle.php" />
-        <option value="$PROJECT_DIR$/src/tests/OCP/BoardTest.php" />
-        <option value="$PROJECT_DIR$/src/app/OCP/Circle.php" />
-        <option value="$PROJECT_DIR$/src/app/OCP/Board.php" />
-        <option value="$PROJECT_DIR$/src/tests/OpenClosedPrinciple/BoardTest.php" />
-        <option value="$PROJECT_DIR$/src/app/SingleResponsibilityPrinciple/readme.md" />
-        <option value="$PROJECT_DIR$/src/app/OpenClosedPrinciple/readme.md" />
-        <option value="$PROJECT_DIR$/src/app/OpenClosedPrinciple/Board.php" />
-        <option value="$PROJECT_DIR$/src/app/LiskovSubistitutionPrinciple/readme.md" />
-        <option value="$PROJECT_DIR$/src/app/LiskovSubistitutionPrinciple/QuadrilateralInterface.php" />
-        <option value="$PROJECT_DIR$/src/app/LiskovSubistitutionPrinciple/Rectangle.php" />
-        <option value="$PROJECT_DIR$/src/app/InterfaceSegregationPrinciple/readme.md" />
-        <option value="$PROJECT_DIR$/src/app/InterfaceSegregationPrinciple/WorkerInterface.php" />
-        <option value="$PROJECT_DIR$/src/app/InterfaceSegregationPrinciple/DeveloperInterface.php" />
-        <option value="$PROJECT_DIR$/src/app/InterfaceSegregationPrinciple/Coder.php" />
-        <option value="$PROJECT_DIR$/src/app/InterfaceSegregationPrinciple/MustCallToClient.php" />
-        <option value="$PROJECT_DIR$/src/app/InterfaceSegregationPrinciple/RequirementsAnalyst.php" />
-        <option value="$PROJECT_DIR$/src/app/DependecyInversionPrinciple/readme.md" />
-        <option value="$PROJECT_DIR$/src/app/DependecyInversionPrinciple/ReportInterface.php" />
-        <option value="$PROJECT_DIR$/src/app/DependecyInversionPrinciple/ListInterface.php" />
-        <option value="$PROJECT_DIR$/src/app/DependecyInversionPrinciple/Pdf.php" />
-        <option value="$PROJECT_DIR$/src/app/DependecyInversionPrinciple/ListRendererInterface.php" />
-        <option value="$PROJECT_DIR$/src/app/DependecyInversionPrinciple/PdfRenderer.php" />
-        <option value="$PROJECT_DIR$/src/app/DependecyInversionPrinciple/XMLRenderer.php" />
-        <option value="$PROJECT_DIR$/src/app/DependecyInversionPrinciple/PDFRenderer.php" />
-        <option value="$PROJECT_DIR$/src/app/DependecyInversionPrinciple/Report.php" />
-        <option value="$PROJECT_DIR$/src/.gitignore" />
-        <option value="$PROJECT_DIR$/configs/php-fpm/Dockerfile" />
-        <option value="$PROJECT_DIR$/docker-compose.yml" />
-      </list>
-    </option>
   </component>
   <component name="PhpDebugGeneral" listening_started="true" />
   <component name="PhpServers">
     <servers />
   </component>
-  <component name="PhpWorkspaceProjectConfiguration">
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="solidphp_php-fpm:latest">
     <include_path>
-      <path value="$PROJECT_DIR$/src/vendor/phpunit/php-token-stream" />
-      <path value="$PROJECT_DIR$/src/vendor/sebastian/version" />
-      <path value="$PROJECT_DIR$/src/vendor/phpunit/php-invoker" />
-      <path value="$PROJECT_DIR$/src/vendor/sebastian/type" />
-      <path value="$PROJECT_DIR$/src/vendor/phpunit/php-code-coverage" />
-      <path value="$PROJECT_DIR$/src/vendor/sebastian/exporter" />
-      <path value="$PROJECT_DIR$/src/vendor/sebastian/comparator" />
-      <path value="$PROJECT_DIR$/src/vendor/sebastian/object-reflector" />
-      <path value="$PROJECT_DIR$/src/vendor/phpunit/php-timer" />
-      <path value="$PROJECT_DIR$/src/vendor/sebastian/recursion-context" />
-      <path value="$PROJECT_DIR$/src/vendor/phpunit/php-file-iterator" />
-      <path value="$PROJECT_DIR$/src/vendor/sebastian/diff" />
-      <path value="$PROJECT_DIR$/src/vendor/phpunit/php-text-template" />
-      <path value="$PROJECT_DIR$/src/vendor/sebastian/object-enumerator" />
-      <path value="$PROJECT_DIR$/src/vendor/sebastian/global-state" />
-      <path value="$PROJECT_DIR$/src/vendor/phpspec/prophecy" />
-      <path value="$PROJECT_DIR$/src/vendor/myclabs/deep-copy" />
-      <path value="$PROJECT_DIR$/src/vendor/theseer/tokenizer" />
       <path value="$PROJECT_DIR$/src/vendor/composer" />
-      <path value="$PROJECT_DIR$/src/vendor/symfony/polyfill-ctype" />
-      <path value="$PROJECT_DIR$/src/vendor/phpunit/phpunit" />
-      <path value="$PROJECT_DIR$/src/vendor/phar-io/manifest" />
+      <path value="$PROJECT_DIR$/src/vendor/myclabs/deep-copy" />
       <path value="$PROJECT_DIR$/src/vendor/phar-io/version" />
-      <path value="$PROJECT_DIR$/src/vendor/phpdocumentor/type-resolver" />
-      <path value="$PROJECT_DIR$/src/vendor/phpdocumentor/reflection-docblock" />
-      <path value="$PROJECT_DIR$/src/vendor/phpdocumentor/reflection-common" />
-      <path value="$PROJECT_DIR$/src/vendor/sebastian/code-unit" />
+      <path value="$PROJECT_DIR$/src/vendor/phar-io/manifest" />
+      <path value="$PROJECT_DIR$/src/vendor/phpspec/prophecy" />
+      <path value="$PROJECT_DIR$/src/vendor/phpunit/phpunit" />
+      <path value="$PROJECT_DIR$/src/vendor/phpunit/php-token-stream" />
+      <path value="$PROJECT_DIR$/src/vendor/phpunit/php-timer" />
+      <path value="$PROJECT_DIR$/src/vendor/phpunit/php-text-template" />
+      <path value="$PROJECT_DIR$/src/vendor/phpunit/php-code-coverage" />
+      <path value="$PROJECT_DIR$/src/vendor/phpunit/php-invoker" />
+      <path value="$PROJECT_DIR$/src/vendor/phpunit/php-file-iterator" />
+      <path value="$PROJECT_DIR$/src/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/src/vendor/theseer/tokenizer" />
       <path value="$PROJECT_DIR$/src/vendor/doctrine/instantiator" />
-      <path value="$PROJECT_DIR$/src/vendor/sebastian/environment" />
+      <path value="$PROJECT_DIR$/src/vendor/sebastian/global-state" />
       <path value="$PROJECT_DIR$/src/vendor/sebastian/code-unit-reverse-lookup" />
+      <path value="$PROJECT_DIR$/src/vendor/sebastian/version" />
       <path value="$PROJECT_DIR$/src/vendor/sebastian/resource-operations" />
+      <path value="$PROJECT_DIR$/src/vendor/sebastian/object-reflector" />
+      <path value="$PROJECT_DIR$/src/vendor/sebastian/comparator" />
+      <path value="$PROJECT_DIR$/src/vendor/sebastian/type" />
+      <path value="$PROJECT_DIR$/src/vendor/sebastian/diff" />
+      <path value="$PROJECT_DIR$/src/vendor/sebastian/exporter" />
+      <path value="$PROJECT_DIR$/src/vendor/sebastian/recursion-context" />
+      <path value="$PROJECT_DIR$/src/vendor/sebastian/object-enumerator" />
+      <path value="$PROJECT_DIR$/src/vendor/sebastian/code-unit" />
+      <path value="$PROJECT_DIR$/src/vendor/sebastian/environment" />
       <path value="$PROJECT_DIR$/src/vendor/webmozart/assert" />
+      <path value="$PROJECT_DIR$/src/vendor/phpdocumentor/type-resolver" />
+      <path value="$PROJECT_DIR$/src/vendor/phpdocumentor/reflection-common" />
+      <path value="$PROJECT_DIR$/src/vendor/phpdocumentor/reflection-docblock" />
     </include_path>
   </component>
   <component name="PhpXdebugProxy" port="9000" />
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1279" />
-    <option name="width" value="1368" />
-    <option name="height" value="769" />
-  </component>
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <autoscrollFromSource ProjectPane="true" />
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="solidphp" type="b2602c69:ProjectViewProjectNode" />
-              <item name="solidphp" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="solidphp" type="b2602c69:ProjectViewProjectNode" />
-              <item name="solidphp" type="462c0819:PsiDirectoryNode" />
-              <item name=".vscode" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="solidphp" type="b2602c69:ProjectViewProjectNode" />
-              <item name="solidphp" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="Scope" />
-    </panes>
+  <component name="ProjectId" id="1ewuTC80Xli2xlQK6WaAbi4RnYw" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="editor.config.ad.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/vendor/autoload.php" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="settings.php.debug.servers" />
+    <property name="settings.editor.selected.configurable" value="php.test.frameworks.configurable" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/configs/php-fpm" />
     </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
   <component name="RunManager">
-    <configuration name="Dockerfile" type="docker-deploy" factoryName="dockerfile" temporary="true" server-name="Docker">
-      <deployment type="dockerfile">
-        <settings>
-          <option name="buildCliOptions" value="" />
-          <option name="command" value="" />
-          <option name="containerName" value="" />
-          <option name="entrypoint" value="" />
-          <option name="imageTag" value="" />
-          <option name="publishAllPorts" value="true" />
-          <option name="commandLineOptions" value="" />
-          <option name="sourceFilePath" value="Dockerfile" />
-        </settings>
-      </deployment>
+    <configuration name="BoardTest" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
+      <TestRunner class="Tests\App\OpenClosedPrinciple\BoardTest" configuration_file="/opt/project/src/phpunit.xml" file="$PROJECT_DIR$/src/tests/OpenClosedPrinciple/BoardTest.php" scope="Class" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Docker.Dockerfile" />
+        <item itemvalue="PHPUnit.BoardTest" />
       </list>
     </recent_temporary>
   </component>
@@ -253,318 +129,68 @@
       <updated>1595042948356</updated>
       <workItem from="1595042949476" duration="448000" />
       <workItem from="1595043418738" duration="27000" />
-      <workItem from="1595043597806" duration="6902000" />
+      <workItem from="1595043597806" duration="15295000" />
+      <workItem from="1595243745883" duration="728000" />
+      <workItem from="1595244991356" duration="60000" />
+      <workItem from="1595245073192" duration="1121000" />
+      <workItem from="1595247157839" duration="1154000" />
     </task>
     <servers />
   </component>
-  <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7377000" />
-  </component>
-  <component name="ToolWindowManager">
-    <frame x="1279" y="0" width="1368" height="769" extended-state="6" />
-    <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25755286" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Docker" order="7" sideWeight="0.49924472" visible="true" weight="0.32924962" />
-      <window_info anchor="bottom" id="Database Changes" order="8" />
-      <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" />
-      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5007553" side_tool="true" weight="0.32924962" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Database" order="3" />
-    </layout>
-  </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1320" height="232" key="GridCell.Tab.0.bottom" timestamp="1595247455781">
+      <screen x="1280" y="0" width="1366" height="768" />
+    </state>
+    <state width="1320" height="232" key="GridCell.Tab.0.bottom/1280.0.1366.768/0.0.1280.800@1280.0.1366.768" timestamp="1595247455781" />
+    <state width="1320" height="232" key="GridCell.Tab.0.center" timestamp="1595247455780">
+      <screen x="1280" y="0" width="1366" height="768" />
+    </state>
+    <state width="1320" height="232" key="GridCell.Tab.0.center/1280.0.1366.768/0.0.1280.800@1280.0.1366.768" timestamp="1595247455780" />
+    <state width="1320" height="232" key="GridCell.Tab.0.left" timestamp="1595247455780">
+      <screen x="1280" y="0" width="1366" height="768" />
+    </state>
+    <state width="1320" height="232" key="GridCell.Tab.0.left/1280.0.1366.768/0.0.1280.800@1280.0.1366.768" timestamp="1595247455780" />
+    <state width="1320" height="232" key="GridCell.Tab.0.right" timestamp="1595247455780">
+      <screen x="1280" y="0" width="1366" height="768" />
+    </state>
+    <state width="1320" height="232" key="GridCell.Tab.0.right/1280.0.1366.768/0.0.1280.800@1280.0.1366.768" timestamp="1595247455780" />
+    <state width="1320" height="232" key="GridCell.Tab.1.bottom" timestamp="1595247455781">
+      <screen x="1280" y="0" width="1366" height="768" />
+    </state>
+    <state width="1320" height="232" key="GridCell.Tab.1.bottom/1280.0.1366.768/0.0.1280.800@1280.0.1366.768" timestamp="1595247455781" />
+    <state width="1320" height="232" key="GridCell.Tab.1.center" timestamp="1595247455781">
+      <screen x="1280" y="0" width="1366" height="768" />
+    </state>
+    <state width="1320" height="232" key="GridCell.Tab.1.center/1280.0.1366.768/0.0.1280.800@1280.0.1366.768" timestamp="1595247455781" />
+    <state width="1320" height="232" key="GridCell.Tab.1.left" timestamp="1595247455781">
+      <screen x="1280" y="0" width="1366" height="768" />
+    </state>
+    <state width="1320" height="232" key="GridCell.Tab.1.left/1280.0.1366.768/0.0.1280.800@1280.0.1366.768" timestamp="1595247455781" />
+    <state width="1320" height="232" key="GridCell.Tab.1.right" timestamp="1595247455781">
+      <screen x="1280" y="0" width="1366" height="768" />
+    </state>
+    <state width="1320" height="232" key="GridCell.Tab.1.right/1280.0.1366.768/0.0.1280.800@1280.0.1366.768" timestamp="1595247455781" />
+    <state x="1474" y="19" key="SettingsEditor" timestamp="1595247277763">
+      <screen x="1280" y="0" width="1366" height="768" />
+    </state>
+    <state x="1474" y="19" key="SettingsEditor/1280.0.1366.768/0.0.1280.800@1280.0.1366.768" timestamp="1595247277763" />
+    <state x="1776" y="301" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1595253820640">
+      <screen x="1280" y="0" width="1366" height="768" />
+    </state>
+    <state x="1776" y="301" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/1280.0.1366.768/0.0.1280.800@1280.0.1366.768" timestamp="1595253820640" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="php">
-          <url>file://$PROJECT_DIR$/src/app/OpenClosedPrinciple/Board.php</url>
-          <line>26</line>
+          <url>file://$PROJECT_DIR$/src/tests/OpenClosedPrinciple/BoardTest.php</url>
+          <line>20</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/composer.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="21" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/composer.lock">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-495" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/phpunit.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/bcmath/bcmath.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="22" column="9" selection-start-line="22" selection-start-column="9" selection-end-line="22" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/app/OpenClosedPrinciple/Circle.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="232">
-          <caret line="16" column="32" lean-forward="true" selection-start-line="16" selection-start-column="32" selection-end-line="16" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/tests/OpenClosedPrinciple/BoardTest.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="256">
-          <caret line="24" column="96" lean-forward="true" selection-start-line="24" selection-start-column="96" selection-end-line="24" selection-end-column="96" />
-          <folding>
-            <element signature="e#130#164#0#PHP" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/app/SingleResponsibilityPrinciple/readme.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="30">
-            <caret line="2" column="3" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="3" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/app/OpenClosedPrinciple/Rectangle.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="5" lean-forward="true" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/app/OpenClosedPrinciple/ShapeInterface.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="20" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/app/OpenClosedPrinciple/Board.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="32" column="1" lean-forward="true" selection-start-line="32" selection-start-column="1" selection-end-line="32" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/app/LiskovSubistitutionPrinciple/QuadrilateralInterface.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="14" column="49" selection-start-line="14" selection-start-column="49" selection-end-line="14" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/app/LiskovSubistitutionPrinciple/readme.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="30">
-            <caret line="2" column="5" selection-start-line="2" selection-start-column="5" selection-end-line="2" selection-end-column="5" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/app/OpenClosedPrinciple/readme.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="30">
-            <caret line="2" column="127" selection-start-line="2" selection-start-column="127" selection-end-line="2" selection-end-column="127" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/app/LiskovSubistitutionPrinciple/Rectangle.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="19" column="5" lean-forward="true" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/app/InterfaceSegregationPrinciple/readme.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="30">
-            <caret line="2" column="33" lean-forward="true" selection-start-line="2" selection-start-column="33" selection-end-line="2" selection-end-column="33" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/app/InterfaceSegregationPrinciple/WorkerInterface.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/app/InterfaceSegregationPrinciple/DeveloperInterface.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="13" column="27" selection-start-line="13" selection-start-column="27" selection-end-line="13" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/app/InterfaceSegregationPrinciple/Coder.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="22" column="5" lean-forward="true" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/app/InterfaceSegregationPrinciple/MustCallToClient.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="13" column="35" selection-start-line="13" selection-start-column="35" selection-end-line="13" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/app/InterfaceSegregationPrinciple/RequirementsAnalyst.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/app/DependecyInversionPrinciple/readme.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="45">
-            <caret line="3" column="26" lean-forward="true" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/app/DependecyInversionPrinciple/Pdf.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret lean-forward="true" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/app/DependecyInversionPrinciple/ListRendererInterface.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="15" column="1" lean-forward="true" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/app/DependecyInversionPrinciple/XMLRenderer.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="23" column="1" lean-forward="true" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/app/DependecyInversionPrinciple/PDFRenderer.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="23" column="1" lean-forward="true" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/app/DependecyInversionPrinciple/Report.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="29" column="5" lean-forward="true" selection-start-line="29" selection-start-column="5" selection-end-line="29" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/app/SingleResponsibilityPrinciple/Page.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="5" lean-forward="true" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/app/SingleResponsibilityPrinciple/JsonPageFormatter.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="1" lean-forward="true" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/configs/php-fpm/Dockerfile">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-900" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/configs/php-fpm/docker-entrypoint.sh">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/configs/php-fpm/.env.example">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/configs/php-fpm/php-ini-overrides.ini">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/configs/php-fpm/xdebug.ini">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/configs/php-fpm/Dockerfile">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docker-compose.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="51" lean-forward="true" selection-start-line="9" selection-start-column="51" selection-end-line="9" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/init.sh">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/php">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/solidphp.code-workspace">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.vscode/launch.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/testes.php">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/index.php">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.vscode/settings.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="1" lean-forward="true" selection-start-line="1" selection-start-column="1" selection-end-line="1" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
   </component>
 </project>

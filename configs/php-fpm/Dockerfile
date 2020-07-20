@@ -1,6 +1,6 @@
 FROM php:7.4-cli
 
-WORKDIR "/application"
+WORKDIR "/opt/project"
 
 # Fix debconf warnings upon build
 ARG DEBIAN_FRONTEND=noninteractive
@@ -45,7 +45,8 @@ RUN docker-php-ext-install pdo_mysql mbstring zip exif pcntl
 RUN docker-php-ext-configure gd --with-freetype --with-jpeg
 RUN docker-php-ext-install gd
 
-RUN pecl install xdebug-2.9.6
+RUN pecl install xdebug-2.9.6 \
+    && docker-php-ext-enable xdebug
 
 WORKDIR "/tmp"
 
@@ -55,11 +56,8 @@ RUN ls -la /tmp \
     && mv /tmp/composer.phar /usr/local/bin/ \
     && ln -s /usr/local/bin/composer.phar /usr/local/bin/composer
 
-WORKDIR "/application"
+WORKDIR "/opt/project"
 
-
-COPY ../../src /application
-
-RUN chown -R www-data:www-data /application
+RUN chown -R www-data:www-data /opt/project
 
 CMD tail -f /dev/null
